@@ -2,13 +2,6 @@
 
 Welcome to the HTML Basics Learning Repository! 🚀 In this repository, you'll find a collection of basic HTML code examples and resources designed to help beginners learn HTML from scratch.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Getting Started](#getting-started)
-- [Repository Structure](#repository-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
